@@ -16,16 +16,16 @@
     </div>
 
     <div class="stats">
-      访问次数：<span id="vercount_value_site_pv">😯</span>次 | 访客人数：<span id="vercount_value_site_uv">😯</span>人
+      絳雪生涼<span id="vercount_value_site_pv">❄️</span>碧霞籠夜 , 絳雪生涼，碧霞籠夜，小立中庭<span id="vercount_value_site_uv">☃️</span>蕪地
     </div>
 
     <div class="project-links">
-      <strong>项目:</strong><a href="https://github.com/willow-god/FlareDrive-R2" target="_blank"
-        rel="noopener noreferrer">FlareDrive-R2</a>
-      <strong>作者:</strong><a href="https://github.com/willow-god" target="_blank"
-        rel="noopener noreferrer">LiuShen</a>
-      <strong>初始项目:</strong><a href="https://github.com/ljxi/Cloudflare-R2-oss" target="_blank"
-        rel="noopener noreferrer">Cloudflare-R2-OSS</a>
+      <strong>导航:</strong><a href="https://nav.1766666.xyz" target="_blank"
+        rel="noopener noreferrer">Nav</a>
+      <strong>记事:</strong><a href="https://md.1766666.xyz" target="_blank"
+        rel="noopener noreferrer">MD</a>
+      <strong>影视:</strong><a href="https://ttv.1766666.xyz" target="_blank"
+        rel="noopener noreferrer">Tv</a>
     </div>
 
     <div class="powered">Powered by <a href="https://workers.cloudflare.com/" target="_blank"
@@ -40,10 +40,10 @@ export default {
   name: "Footer",
   data() {
     return {
-      homeUrl: "https://www.liushen.fun/",
-      blogUrl: "https://blog.liushen.fun/",
-      githubUrl: "https://github.com/willow-god",
-      emailUrl: "mailto:01@liushen.fun"
+      homeUrl: "https://1766666.xyz",
+      blogUrl: "https://go.1766666.xyz",
+      githubUrl: "https://img.1766666.xyz",
+      emailUrl: "mailto:admin@1766666.xyz"
     };
   }
 };
